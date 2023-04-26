@@ -1,4 +1,5 @@
 import React from "react";
+import Burger from "../assets/burgerCover.webp";
 
 const Hero = () => {
   return (
@@ -14,7 +15,7 @@ const Hero = () => {
           </h1>
         </div>
         <img
-          src="https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          src={Burger}
           alt=""
           className="w-full max-h-[500px] object-cover"
         />
