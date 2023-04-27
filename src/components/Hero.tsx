@@ -1,4 +1,3 @@
-import React from "react";
 import Burger from "../assets/burgerCover.webp";
 
 const Hero = () => {

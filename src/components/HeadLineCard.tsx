@@ -1,4 +1,3 @@
-import React from "react";
 import Bogo from "../assets/SunsOut.avif";
 import New from "../assets/new.avif";
 import Deserts from "../assets/desserts.avif";

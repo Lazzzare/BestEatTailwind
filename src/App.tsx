@@ -1,3 +1,4 @@
+import Food from "./components/Food";
 import HeadLineCard from "./components/HeadLineCard";
 import Hero from "./components/Hero";
 import NavBar from "./components/NavBar";
@@ -8,6 +9,7 @@ const App = () => {
       <NavBar />
       <Hero />
       <HeadLineCard />
+      <Food />
     </div>
   );
 };
