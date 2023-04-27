@@ -1,16 +1,17 @@
-![Project Image]()
+![Project Image](./src/assets/Design.PNG)
 
 # Link
 
-- Live Site URL: [Vercell](https://simple-todo-with-typescript-seven.vercel.app/)
+- Live Site URL: [Netlify](https://transcendent-frangipane-4c41cc.netlify.app/)
 
 # Built With
 
 - _React.js_
 - _TSX (Typescript)_
-- _React Hooks (useState, useEffect, useRef)_
+- _React Hook (useState)_
 - _React Icons_
-- _CSS_
+- _TailwindCSS_
+- _Mobile First Approach_
 
 # Author
 
