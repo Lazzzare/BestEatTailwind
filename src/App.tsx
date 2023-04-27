@@ -1,3 +1,4 @@
+import Category from "./components/Category";
 import Food from "./components/Food";
 import HeadLineCard from "./components/HeadLineCard";
 import Hero from "./components/Hero";
@@ -10,6 +11,7 @@ const App = () => {
       <Hero />
       <HeadLineCard />
       <Food />
+      <Category />
     </div>
   );
 };
